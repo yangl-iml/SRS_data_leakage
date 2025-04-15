@@ -1,4 +1,4 @@
-## Temporal Consistency and Data Leakage in Offline Evaluation of Sequential Recommender Systems
+## Flood Warning: Data Leakage in Offline Evaluation of Sequential Recommenders
 This anonymous repository provides the source code and supplementary results for our submission at RecSys2025. 
 
 ### Supplementary Results
