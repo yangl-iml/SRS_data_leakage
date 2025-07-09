@@ -1,4 +1,4 @@
-## A Critical Study on Data Leakage in Offline Evaluation of Sequential Recommender Systems
+## Don’t Get Ahead of Yourself: A Critical Study on Data Leakage in Offline Evaluation of Sequential Recommenders
 This anonymous repository provides the source code and supplementary results for our LBR submission at RecSys2025. 
 
 ### Supplementary Results
