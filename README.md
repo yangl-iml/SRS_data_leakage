@@ -1,5 +1,5 @@
 ## Don’t Get Ahead of Yourself: A Critical Study on Data Leakage in Offline Evaluation of Sequential Recommenders
-This repository provides the source code and supplementary results for our LBR submission at RecSys2025. 
+This repository provides the source code and supplementary results for our LBR paper at RecSys2025. 
 
 ### Supplementary Results
 We provide six addtional tables and one additional figure in [supplementary_results.pdf](supplementary_results.pdf) to further support our findings. 
